@@ -13,6 +13,6 @@
             <a class="nav-link" href="#">Movies</a>
           </li>
         </ul>
-      </div>
+      </div> 
     </div>
   </nav>
